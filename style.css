@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+.topnav{
+    padding: 15px;
+    background-color: #db6b0f;
+}
+
+.topnav a{
+    color: rgb(38, 20, 103);
+    padding: 15px 17px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav:hover{
+    background-color: rgb(26, 209, 222);
+}
+
+.topnav a:hover{
+    color: rgb(18, 95, 182);
+}
+
+.head{
+    color: rgb(146, 26, 155);
+}
+
+.head:hover{
+    color: rgb(16, 111, 146);
+}
+
+.para{
+    color: rgba(11, 10, 16, 0.781);
+}
+
+#about{
+    padding: 25px;
+}
+
+.detail{
+    font-size: 18px;
+    padding: 50px;
+    background-color: hsla(180, 1%, 62%, 0.948);
+}
+
+#button{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.941);
+    background-color: #d65e14;
+}
